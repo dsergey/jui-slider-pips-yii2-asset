@@ -1,0 +1,7 @@
+{
+    "directory" : "./",
+    "ignoredDependencies": [
+        "jquery",
+        "jquery-ui"
+    ]
+}

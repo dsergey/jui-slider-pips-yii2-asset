@@ -1,0 +1,13 @@
+{
+  "name": "events-assets",
+  "authors": [
+    "serik.drozd@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jQuery-ui-Slider-Pips": "jquery-ui-slider-pips#^1.11.4"
+  }
+}
