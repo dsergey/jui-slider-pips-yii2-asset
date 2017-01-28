@@ -10,5 +10,5 @@ composer require dsergey/jui-slider-pips-yii2-asset
 ```
 or add to yours `composer.json`
 ```
-"dsergey/jui-slider-pips-yii2-asset": "*@dev"
+"dsergey/jui-slider-pips-yii2-asset": "^1.11"
 ```
